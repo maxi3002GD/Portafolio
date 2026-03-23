@@ -99,10 +99,10 @@ sections:
               borderRadius: x-large
       - title: Suncraft Network 2.0
         subtitle: '- Icath'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Este servidor le tenia cariño, en el momento que entre al staff me
+          propuse a ser el mejor, gracias a esa dedicacion llegue hasta
+          Sr.Admin, sin duda uno de los mejores servidores que llegue
         image:
           url: /images/icon2.svg
           altText: Featured icon two
