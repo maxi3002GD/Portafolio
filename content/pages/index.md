@@ -440,7 +440,7 @@ sections:
           de el y sin duda es de gran ayuda tenerlo y es agradable a la hora de
           trabajar con el."
         tagline: ''
-        subtitle: uOmxrs_, Founder
+        subtitle: uOmxrs_, Owner
         text: ''
         image:
           url: /images/person-placeholder-light.png
