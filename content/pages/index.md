@@ -435,8 +435,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Maxi es un muy buen ss manager ya que sabe lo que hace y es experto ,
+          100% lo recomiendo , es muy buena persona fuera de su trabajo y dentro
+          de el y sin duda es de gran ayuda tenerlo y es agradable a la hora de
+          trabajar con el."
         tagline: ''
         subtitle: John Doe, Company
         text: >-
