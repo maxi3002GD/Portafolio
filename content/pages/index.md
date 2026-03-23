@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ¿Quien confio en mi trabajo?
     items:
       - type: FeaturedItem
         title: 500k
