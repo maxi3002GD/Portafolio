@@ -61,7 +61,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Servidores
       color: text-dark
       styles:
         self:
