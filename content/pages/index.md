@@ -125,10 +125,10 @@ sections:
         type: FeaturedItem
       - title: Minedox
         subtitle: "-\_! ImDeaths_"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Aqui empece a moldearme mejor ya que fue la segunda vez que me
+          proponen que sea manager, debido a eso logre mantener una actividad
+          constante y mejores habilidades hasta llegar a operador
         image:
           url: /images/icon3.svg
           altText: Featured icon three
