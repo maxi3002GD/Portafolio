@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Portafolio De
+      text: Portafolio De maxi3002GD
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
