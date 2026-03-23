@@ -409,8 +409,7 @@ sections:
           “Haz echo varias cosas ayudando a minedox.. como por ejemplo ser
           manager, me ayudabas en hacer las postulaciones... lo revisabas todo
           bien y me ayudabas hacer los permisos de los rangos del servidor y pss
-          si me gusto que me ayudaras la verdadthere is nothing left to take
-          away.”
+          si me gusto que me ayudaras la verdad.”
         tagline: '! ImDeaths_'
         subtitle: Maria Walters, Company
         text: >-
