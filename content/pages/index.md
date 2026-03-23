@@ -471,7 +471,7 @@ sections:
           tratar a los usuarios de forma correcta, sin dudas uno de los mejores
           staff que he conocido."
         tagline: ICath
-        subtitle: Maria Walters, Company
+        subtitle: Ex Manager, Suncraft Network
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
