@@ -72,10 +72,9 @@ sections:
       - type: FeaturedItem
         title: BoxPvP Tierlist
         subtitle: "-\_uOmxrs_"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Esta fue una TierList de BoxPvP cual me dieron la confianza de ayudar
+          como Manager de SS, gracias a eso pude llegar mas lejos
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
