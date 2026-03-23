@@ -443,7 +443,7 @@ sections:
         subtitle: BoxPvP Tierlist, Owner
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Captura de pantalla 2026-03-23 103814.png
           altText: John Doe
           styles:
             self:
