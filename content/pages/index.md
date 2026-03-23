@@ -101,8 +101,9 @@ sections:
         subtitle: '- Icath'
         text: >
           Este servidor le tenia cariño, en el momento que entre al staff me
-          propuse a ser el mejor, gracias a esa dedicacion llegue hasta
-          Sr.Admin, sin duda uno de los mejores servidores que llegue
+          propuse a ser el mejor, gracias a esa dedicacion llegue hasta Sr.Admin
+          y coordinador interno, sin duda uno de los mejores servidores que
+          llegue
         image:
           url: /images/icon2.svg
           altText: Featured icon two
