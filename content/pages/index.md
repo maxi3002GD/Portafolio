@@ -406,8 +406,11 @@ sections:
     subtitle: ¿Que opinan los owners y managers?
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Haz echo varias cosas ayudando a minedox.. como por ejemplo ser
+          manager, me ayudabas en hacer las postulaciones... lo revisabas todo
+          bien y me ayudabas hacer los permisos de los rangos del servidor y pss
+          si me gusto que me ayudaras la verdadthere is nothing left to take
+          away.”
         tagline: '! ImDeaths_'
         subtitle: Maria Walters, Company
         text: >-
