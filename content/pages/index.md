@@ -411,7 +411,7 @@ sections:
           bien y me ayudabas hacer los permisos de los rangos del servidor y pss
           si me gusto que me ayudaras la verdad.”
         tagline: '! ImDeaths_'
-        subtitle: Maria Walters, Company
+        subtitle: Minedox, Owner
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
