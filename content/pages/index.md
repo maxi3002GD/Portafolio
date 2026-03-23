@@ -9,9 +9,17 @@ sections:
       type: TitleBlock
     subtitle: ¿Quien soy?
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      ¡Hola! me presento soy maxi3002GD, soy un staff con 1 año de experiencia
+      dentro del ambito del StaffTeam y SS en Minecraft.
+
+      En el tiempo que estuve
+       manejando y moderado los servidores fueron
+       tiempos tranquilos y sin problemas graves
+       de moderación, manteniendo un
+       comportamiento bastante bueno y con pocos
+       errores pudiendo ayudar a los equipos de
+       staff asi enseñarle mas técnicas y formas de
+       moderar.
     actions:
       - label: Get started
         altText: ''
