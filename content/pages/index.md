@@ -464,8 +464,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Un muy buen staff, siempre activo y atento a lo que pasa en el
+          servidor, responsable en cada una de sus acciones, con una muy buena
+          experiencia que se nota a la hora de tomar decisiones, y una madurez
+          que lo diferencia del resto, sabe manejar bien las situaciones y
+          tratar a los usuarios de forma correcta, sin dudas uno de los mejores
+          staff que he conocido."
         tagline: ICath
         subtitle: Maria Walters, Company
         text: >-
