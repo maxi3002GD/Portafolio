@@ -70,7 +70,7 @@ sections:
     subtitle: ¿Quien confio en mi trabajo?
     items:
       - type: FeaturedItem
-        title: 500k
+        title: BoxPvP Tierlist
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
