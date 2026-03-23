@@ -439,7 +439,7 @@ sections:
           100% lo recomiendo , es muy buena persona fuera de su trabajo y dentro
           de el y sin duda es de gran ayuda tenerlo y es agradable a la hora de
           trabajar con el."
-        tagline: ''
+        tagline: uOmxrs_
         subtitle: uOmxrs_, Owner
         text: ''
         image:
