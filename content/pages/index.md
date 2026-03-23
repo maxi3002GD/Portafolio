@@ -440,7 +440,7 @@ sections:
           de el y sin duda es de gran ayuda tenerlo y es agradable a la hora de
           trabajar con el."
         tagline: uOmxrs_
-        subtitle: uOmxrs_, Owner
+        subtitle: BoxPvP Tierlist, Owner
         text: ''
         image:
           url: /images/person-placeholder-light.png
