@@ -410,7 +410,7 @@ sections:
           manager, me ayudabas en hacer las postulaciones... lo revisabas todo
           bien y me ayudabas hacer los permisos de los rangos del servidor y pss
           si me gusto que me ayudaras la verdad.”
-        tagline: '! ImDeaths_'
+        tagline: ''
         subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
