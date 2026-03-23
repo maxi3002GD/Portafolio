@@ -77,7 +77,7 @@ sections:
           como Manager de SS, gracias a eso pude llegar mas lejos
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
