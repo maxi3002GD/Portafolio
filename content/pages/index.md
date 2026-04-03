@@ -142,16 +142,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Opiniones Personales
-        altText: ''
-        url: /Opinion
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
