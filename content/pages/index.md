@@ -126,7 +126,7 @@ sections:
           proponen que sea manager, debido a eso logre mantener una actividad
           constante y mejores habilidades hasta llegar a operador
         image:
-          url: /images/icon3.svg
+          url: /images/18b74805176d040bb5a0ead3c7e9470c.webp
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
