@@ -145,7 +145,7 @@ sections:
     actions:
       - label: Opiniones Personales
         altText: ''
-        url: /
+        url: /Opinion
         showIcon: false
         icon: arrowRight
         iconPosition: right
