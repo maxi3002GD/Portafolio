@@ -520,7 +520,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-    elementId: null
+    elementId: Opinion
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
