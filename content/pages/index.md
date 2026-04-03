@@ -101,7 +101,7 @@ sections:
           y coordinador interno, sin duda uno de los mejores servidores que
           llegue
         image:
-          url: /images/18b74805176d040bb5a0ead3c7e9470c.webp
+          url: /images/IMG_3913.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
